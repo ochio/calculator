@@ -10,10 +10,10 @@ init({
 
 function App() {
   return (
-    <>
+    <div className='w-96'>
       <Answer />
       <Board />
-    </>
+    </div>
   )
 }
 
