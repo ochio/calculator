@@ -5,7 +5,7 @@ import { Answer } from './components/Answer';
 import {Operations} from './components/Operations';
 
 init({
-  debug: true,
+  debug: false,
   visualDebug: false,
 })
 
