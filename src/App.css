@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.result { grid-area: 1 / 1 / 2 / 5; }
+.ops { grid-area: 2 / 4 / 6 / 5; }
+.board { grid-area: 2 / 1 / 6 / 4; }
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
